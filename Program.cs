@@ -78,7 +78,7 @@ namespace Lab1v._1
             Console.Clear();
             winBoard(posArr, nameP1, nameP2);
 
-            //Checks to see if a player has one or if there was a draw
+            //Checks to see if a player has won or if there was a draw
             if (win == 1) {
                 player = !player;
                 if (player){
