@@ -1,1 +1,2 @@
 Lab1v.1
+There is still a lot of work to do on this. I need to work on the error correction and work on some methods. There is an uneccessary method that im using that could be deleted if some conditional statements were made but im feeling lazy.
