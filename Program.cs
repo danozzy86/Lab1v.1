@@ -67,7 +67,7 @@ namespace Lab1v._1
                         player = !player;
                     }
                 }
-                //notifies the player that they have chosen a spot already taken or have invalid input
+                //notifies the player that they have chosen a spot already taken or have invalid input *NOT WORKING
                 else {
                     Console.WriteLine("Either the position you have chosen has already been marked or you chose an incorrect position");
                     Console.WriteLine("Press any key to retry...");
